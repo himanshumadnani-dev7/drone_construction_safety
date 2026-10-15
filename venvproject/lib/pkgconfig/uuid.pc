@@ -1,0 +1,11 @@
+prefix=/home/himanshu/Projects/db_project/venvproject
+exec_prefix=/home/himanshu/Projects/db_project/venvproject
+libdir=/home/himanshu/Projects/db_project/venvproject/lib
+includedir=/home/himanshu/Projects/db_project/venvproject/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

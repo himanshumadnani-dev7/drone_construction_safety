@@ -1,0 +1,7 @@
+prefix=/home/himanshu/Projects/db_project/venvproject
+includedir=${prefix}/include
+
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}

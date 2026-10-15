@@ -1,0 +1,5 @@
+ipykernel
+streamlit
+pandas
+numpy
+mysql-connector-python==9.0.0
